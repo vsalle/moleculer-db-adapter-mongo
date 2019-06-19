@@ -1,6 +1,6 @@
 ![Moleculer logo](http://moleculer.services/images/banner.png)
 
-# moleculer-db-adapter-mongo [![NPM version](https://img.shields.io/npm/v/moleculer-db-adapter-mongo.svg)](https://www.npmjs.com/package/moleculer-db-adapter-mongo)
+# Fork : moleculer-db-adapter-mongo
 
 MongoDB native adapter for Moleculer DB service.
 
@@ -10,11 +10,11 @@ MongoDB native adapter for Moleculer DB service.
 -   schemaless adapter
 -   MongoDB driver v3.0
 
-## Install
+<!-- ## Install
 
 ```bash
 $ npm install moleculer-db moleculer-db-adapter-mongo --save
-```
+``` -->
 
 ## Usage
 
